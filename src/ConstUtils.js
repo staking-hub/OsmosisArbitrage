@@ -32,7 +32,7 @@ export const usefullPools = [
 
 //all pools 3*slippage < 1% (3$)
 export const incentivisedMainnetPools = [
-  788,995,1009,1010
+  788,995,1009
 ];
 
 export const usefullPoolsTestnet = [
